@@ -20,7 +20,7 @@ The "original" sleep EEG studies, with physiological data in EDF and annotations
 
 From the original (`v1`) data, a second manipulated version (`v2`) was created, purposefully introducing variations in standards and conventions as well as several flavors of data corruption, as described [here](https://zzz.bwh.harvard.edu/luna-walkthrough/data/#manipulated-data-v2).  The EEG data are still in EDFs (for the same N=20 individuals); the annotation data have been reformatted to reflect a diverse set of formats.
 
-[**/aux**](:files_path:/aux)
+[**/auxiliary**](:files_path:/auxiliary)
 
 Auxiliary data files used in the walkthrough, including basic demographic information (age, sex as a tab-delimited text file), mapping files for channels and annotations, channel location maps, and subfolders with age-prediction model files and POPS model files.  See [here](https://zzz.bwh.harvard.edu/luna-walkthrough/prep/#data) for more details.
 
